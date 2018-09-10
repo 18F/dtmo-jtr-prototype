@@ -44,7 +44,7 @@ U.S. Public Health Service Director, Division of Commissioned Corps Personnel an
 
 <ol type="A">
 	<li><b>Authorized Personnel.</b> These regulation changes are issued for all Uniformed Service Members and DoD Civilian Employees.</li>
-	<li><b>New Regulation Changes.</b> Material new to this change is indicated by yellow highlighting and is effective IAW the date of this change unless otherwise indicated.</li>
+	<li><b>New Regulation Changes.</b> Material new to this change is indicated by <ins>yellow highlighting</ins> and is effective IAW the date of this change unless otherwise indicated.</li>
 	<li><b>Applicable MAP and/or CAP Items and Brief of Revisions.</b> This change includes all material and revisions written in the following MAP and/or CAP Items:
 		<dl>
 			<dt>MAP 007-18(E) – Rewrite of Chapter 10 (Housing Allowances).</dt>
