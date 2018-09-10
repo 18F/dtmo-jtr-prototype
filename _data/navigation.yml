@@ -3,12 +3,7 @@ primary:
     href: /
   - text: "Intro"
     href: /intro/
-  - text: "Guide"
-    href: /guide/
-  - text: "Resources"
-    href: /resources/
-  - text: "Team"
-    href: /team/
+
     
 
 
@@ -17,10 +12,3 @@ mobile:
     href: /
   - text: "Intro"
     href: intro
-  - text: "Guide"
-    href: guide
-  - text: "Resources"
-    href: resources
-  - text: "Team" 
-    href: /team/
-    
