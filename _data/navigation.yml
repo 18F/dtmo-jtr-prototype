@@ -20,7 +20,7 @@ mobile:
  - text: Home
     href: /
   - text: "Intro"
-    href: /intro/
+    href: intro
   - text: "Chapter 1: General Policy"
   - text: "0101. Basic Travel Rules"
     href: "0101-basic-travel-rules"
