@@ -158,7 +158,12 @@ pre {
     }
 }
 
+/**
+ * Edits
+ */
 
+ ins { background-color: $gold-light; }
+ del { text-decoration: line-through; }
 
 /**
  * Wrapper
