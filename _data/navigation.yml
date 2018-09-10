@@ -1,7 +1,7 @@
 primary:
   - text: Home
     href: /
-  - text: "Intro"
+  - text: "Introduction"
     href: /intro/
   - text: "Chapter 1: General Policy"
   - text: "0101. Basic Travel Rules"
@@ -19,7 +19,7 @@ primary:
 mobile:
  - text: Home
    href: /
- - text: "Intro"
+ - text: "Introduction"
    href: intro
  - text: "Chapter 1: General Policy"
  - text: "0101. Basic Travel Rules"
