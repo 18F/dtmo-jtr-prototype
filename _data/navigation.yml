@@ -12,7 +12,7 @@ primary:
   - text: "0103. Financial Rules"
     href: "/01/03-financial-rules/"
   - text: "0104. Unique Status or Condition"
-    href: "/01/04-unique-status/"
+    href: "/01/04-unique-status-or-condition/"
 
     
 
@@ -31,4 +31,4 @@ mobile:
  - text: "0103. Financial Rules"
    href: "/01/03-financial-rules/"
  - text: "0104. Unique Status or Condition"
-   href: "/01/04-unique-status/"
+   href: "/01/04-unique-status-or-condition/"
