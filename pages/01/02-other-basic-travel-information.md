@@ -1,6 +1,6 @@
 ---
 layout: base
-title: 0102 OTHER BASIC TRAVEL INFORMATION
+title: 0102. OTHER BASIC TRAVEL INFORMATION
 permalink: 01/02-other-basic-travel-information/
 
 subnav:

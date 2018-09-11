@@ -1,6 +1,6 @@
 ---
 layout: base
-title: 0101 Basic Travel Rules
+title: 0101. Basic Travel Rules
 permalink: 01/01-basic-travel-rules/
 
 subnav:
