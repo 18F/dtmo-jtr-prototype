@@ -1542,7 +1542,8 @@ h1 {
 
 h2 {
   font-size: 3rem;
-  font-weight: 700; }
+  font-weight: 700;
+  text-transform: capitalize; }
 
 h3 {
   font-size: 2rem;
@@ -1567,6 +1568,9 @@ var,
 address,
 dfn {
   font-style: normal; }
+
+ ins { background-color: #fad980; }
+ del { text-decoration: line-through; }
 
 .usa-content p:not(.usa-font-lead),
 .usa-content ul:not(.usa-accordion):not(.usa-accordion-bordered),
