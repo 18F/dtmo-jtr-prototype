@@ -1,3 +1,9 @@
+# This is a prototype for digitizing the Joint Travel Regulations
+
+This repository is a Jekyll prototype for viewing the [Joint Travel Regulations](https://www.defensetravel.dod.mil/site/travelreg.cfm) as a website to make it easier to view and maintain.
+
+It is currently an incomplete copy of the JTR and may not be up-to-date.
+
 ### Public domain
 
 This project is in the worldwide [public domain](LICENSE.md).

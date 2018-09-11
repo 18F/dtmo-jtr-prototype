@@ -4,14 +4,15 @@ primary:
   - text: "Introduction"
     href: /intro/
   - text: "Chapter 1: General Policy"
+    href: "/01/"
   - text: "0101. Basic Travel Rules"
-    href: "0101-basic-travel-rules"
+    href: "/01/01-basic-travel-rules"
   - text: "0102. Other Basic Travel Information"
-    href: "0102-other-info"
+    href: "/01/02-other-basic-travel-information"
   - text: "0103. Financial Rules"
-    href: "0103-financial-rules"
+    href: "/01/03-financial-rules"
   - text: "0104. Unique Status or Condition"
-    href: "0104-unique-status"
+    href: "/01/04-unique-status"
 
     
 
@@ -21,12 +22,13 @@ mobile:
    href: /
  - text: "Introduction"
    href: intro
- - text: "Chapter 1: General Policy"
- - text: "0101. Basic Travel Rules"
-   href: "0101-basic-travel-rules"
- - text: "0102. Other Basic Travel Information"
-   href: "0102-other-info"
- - text: "0103. Financial Rules"
-   href: "0103-financial-rules"
- - text: "0104. Unique Status or Condition"
-   href: "0104-unique-status"
+  - text: "Chapter 1: General Policy"
+    href: "/01/"
+  - text: "0101. Basic Travel Rules"
+    href: "/01/01-basic-travel-rules"
+  - text: "0102. Other Basic Travel Information"
+    href: "/01/02-other-basic-travel-information"
+  - text: "0103. Financial Rules"
+    href: "/01/03-financial-rules"
+  - text: "0104. Unique Status or Condition"
+    href: "/01/04-unique-status"
