@@ -1,6 +1,6 @@
 ---
 layout: base
-title: 0102. OTHER BASIC TRAVEL INFORMATION
+title: 0102. Other Basic Travel Information
 permalink: 01/02-other-basic-travel-information/
 
 subnav:
@@ -229,8 +229,10 @@ Travel and transportation allowances are payable only after valid orders are iss
 	[table 1-6]
 	</li>
 	<li><u>Violation of 180-Day Rule</u>. Issuing a TDY order for 180, or fewer, consecutive days, followed by a brief return to the PDS and then another TDY order for return to the same location, is a violation of the 180-consecutive-day policy if the known, or reasonably anticipated, TDY duration exceeded 180 days when the initial order was issued.
-		<div class="usa-alert-body">
-			<p class="usa-alert-text">Exceeding the 180-day consecutive TDY time limit without authorization and approval does not constitute an automatic PCS.</p>
+		<div class="usa-alert usa-alert-info">
+			<div class="usa-alert-body">
+				<p class="usa-alert-text">Exceeding the 180-day consecutive TDY time limit without authorization and approval does not constitute an automatic PCS.</p>
+			</div>
 		</div>
 		[table 1-7]
 	</li>

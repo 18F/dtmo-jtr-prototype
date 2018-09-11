@@ -9,12 +9,11 @@ subnav:
 - text: "Most Recent Changes"
   href: "#most-recent-changes"
 ---
-
-<div class="usa-alert-body">
-<h3 class="usa-alert-heading">Disclaimer: This is not the official Joint Travel Regulations.</h3>
-
-<p class="usa-alert-body">This is not an official or up-to-date version of the Joint Travel Regulations. This is an experiment created by 18F for <a href="https://www.defensetravel.dod.mil">Defense Travel Management Office</a>. </p>
-
+<div class="usa-alert usa-alert-info">
+	<div class="usa-alert-body">
+		<h3 class="usa-alert-heading">Disclaimer: This is not the official Joint Travel Regulations.</h3>
+		<p class="usa-alert-body">This is not an official or up-to-date version of the Joint Travel Regulations. This is an experiment created by 18F for <a href="https://www.defensetravel.dod.mil">Defense Travel Management Office</a>. </p>
+	</div>
 </div>
 
 
