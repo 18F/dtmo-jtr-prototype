@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Introduction
+title: Joint Travel Regulations
 permalink: /
 
 subnav:
@@ -15,7 +15,6 @@ subnav:
 		<p class="usa-alert-body">This is not an official or up-to-date version of the Joint Travel Regulations. This is an experiment created by 18F for <a href="https://www.defensetravel.dod.mil">Defense Travel Management Office</a>. </p>
 	</div>
 </div>
-
 
 ### Governing body
 
