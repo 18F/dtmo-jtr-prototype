@@ -18,6 +18,6 @@ subnav:
 
 <div class="usa-alert usa-alert-info">
 	<div class="usa-alert-body">
-		<p class="usa-laert-text">Note: FollowregulationsforPermanentDutyTraveltodetermineanypotentialreimbursementbetween the old and new assignment location.</p>
+		<p class="usa-laert-text">Note: Follow regulations for Permanent Duty Travel to determine any potential reimbursement between the old and new assignment location.</p>
 	</div>
 </div>
