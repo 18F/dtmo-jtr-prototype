@@ -1447,7 +1447,7 @@ table {
   border-spacing: 0;
   margin: 2em 0;
   min-width: 100%; }
-  table thead th,
+  table th,
   table thead td {
     background-color: #f1f1f1; }
   table th {
@@ -1456,7 +1456,6 @@ table {
     font-weight: 400; }
   table th,
   table td {
-    background-color: #ffffff;
     border: 1px solid #5b616b;
     padding: 1.5rem; }
 
