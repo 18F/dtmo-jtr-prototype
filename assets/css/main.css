@@ -1569,7 +1569,7 @@ address,
 dfn {
   font-style: normal; }
 
- ins { background-color: #fad980; }
+ ins { background-color: #fad980; text-decoration: none; }
  del { text-decoration: line-through; }
 
 .usa-content p:not(.usa-font-lead),
