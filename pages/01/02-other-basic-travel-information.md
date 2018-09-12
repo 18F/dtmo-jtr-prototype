@@ -129,6 +129,8 @@ The travel authorization establishes when travel status starts and ends. A trave
 				<tr>
 					<th colspan="5">Table 1-2. Travel Status Start and End Locations for a Traveler Other Than Aircrew Member or Courier</th>
 				</tr>
+			</thead>
+			<tbody>
 				<tr>
 					<th colspan="5">Travel Status Start Locations</th>
 				</tr>
@@ -139,31 +141,25 @@ The travel authorization establishes when travel status starts and ends. A trave
 					<th>And then to…</th>
 					<th>Travel Status starts when the Service member departs from the…</th>
 				</tr>
-			</thead>
-			<tbody>
 				<tr>
-					<td>1</td>
+					<th>1</th>
 					<td>home,</td>
 					<td>terminal,</td>
 					<td><span alt="not available">N/A</span></td>
 					<td>home.<sup><a href="#footnote-010103-1">1</a></sup></td>
 				</tr>
 				<tr>
-					<td>2</td>
+					<th>2</th>
 					<td rowspan="2">home,</td>
 					<td rowspan="2">office, and performs duty there,<sup><a href="#footnote-010103-2">2</a></sup></td>
 					<td>the terminal.</td>
 					<td>office, even though the terminal is at the PDS.<sup><a href="#footnote-010103-3">3</a></sup></td>
 				</tr>
 				<tr>
-					<td>3</td>
+					<th>3</th>
 					<td>another duty or departure point within the PDS before going to the terminal,<sup><a href="#footnote-010103-3">3</a></sup></td>
 					<td>other duty or departure point within the PDS. A terminal is never “another departure point”.</td>
 				</tr>
-			</tbody>
-		</table>
-		<table>
-			<thead>
 				<tr>
 					<th colspan="5">Travel Status End Locations</th>
 				</tr>
@@ -174,23 +170,21 @@ The travel authorization establishes when travel status starts and ends. A trave
 					<th>And then to…</th>
 					<th>Travel Status ends when the Service member returns to the…</th>
 				</tr>
-			</thead>
-			<tbody>
 				<tr>
-					<td>4</td>
+					<th>4</th>
 					<td rowspan="3">terminal,</td>
 					<td>home,</td>
 					<td><span alt="not appicable">N/A</span></td>
 					<td>home.<sup><a href="#footnote-010103-1">1</a></sup></td>
 				</tr>
 				<tr>
-					<td>5</td>
+					<th>5</th>
 					<td>the office, and performs duty there,</td>
 					<td rowspan="2">home,</td>
 					<td>office.</td>
 				</tr>
 				<tr>
-					<td>6</td>
+					<th>6</th>
 					<td>another duty or arrival point within the PDS (a terminal is never “another arrival point”).</td>
 					<td>other duty or arrival point within the PDS.<sup><a href="#footnote-010103-3">3</a></sup></td>
 				</tr>
