@@ -375,6 +375,9 @@ Travel and transportation allowances are payable only after valid orders are iss
 						<ol type="a">
 							<li>Secretary concerned, DoD Agency Director, Service or DoD Agency Headquarters (if delegated), Chief of an appropriate bureau or the staff agency specifically designated for that purpose, or the CCDR or Deputy CCDR.</li>
 							<li>This authority can only be delegated as stated for Service or DoD Agency Headquarters.</li>
+						</ol>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 	</li>
