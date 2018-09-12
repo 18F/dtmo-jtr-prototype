@@ -203,7 +203,86 @@ The travel authorization establishes when travel status starts and ends. A trave
 		</table>
 	</li>
 	<li><u>Aircrew Member and Courier Status</u>. A Service member performing TDY as an aircrew member includes a Service member for whom aircrew duty is an additional duty. It also includes an Armed Forces courier or other Service member whose primary duty makes the air terminal a regular duty place. This does not apply to an RC member for first and last day when called to active duty. Aircrew member status for an RC member only applies after the RC member arrives at the active duty location and terminates when the RC member departs upon relief from active duty. See Table 1-4 to determine when the travel status begins and ends for an aircrew member or courier.
-		<p>[table 1-4]</p>
+		<table>
+			<thead>
+				<tr>
+					<th colspan="5">Table 1-4. Aircrew Member or Courier Travel Status Start and End Locations</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th colspan="5">Travel Status Start Locations</th>
+				</tr>
+				<tr>
+					<th colspan="2">When a Service member departs…</th>
+					<th>And proceeds to…</th>
+					<th>And then to…</th>
+					<th>Travel Status starst with the Service member departs from…</th>
+				</tr>
+				<tr>
+					<th>1</th>
+					<td rowspan="4">home,</td>
+					<td>the office, and does not perform duty there,</td>
+					<td>flight operations or a terminal within the limits of the PDS,</td>
+					<td rowspan="2">the terminal (“departs from” refers to “wheels up”).</td>
+				</tr>
+				<tr>
+					<th>2</th>
+					<td>flight operations or a terminal within the limits of the PDS,</td>
+					<td><span alt="not applicable">N/A</span></td>
+				</tr>
+				<tr>
+					<th>3</th>
+					<td>the office, and performs duty there,<sup><a href="#footnote-010103-4">4</a></sup></td>
+					<td>flight operations or a terminal outside the limits of the PDS,</td>
+					<td>the office.</td>
+				</tr>
+				<tr>
+					<th>4</th>
+					<td>flight operations or a terminal outside the limits of the PDS,</td>
+					<td><span alt="not applicable">N/A</span></td>
+					<td>home.</td>
+				</tr>
+				<tr>
+					<th colspan="5">Travel Status End Location</th>
+				</tr>
+				<tr>
+					<th colspan="2">When a service member returns to…</th>
+					<th>And proceeds to…</th>
+					<th>And then to…</th>
+					<th>Travel Status ends when the Service member returns to…</th>
+				</tr>
+				<tr>
+					<th>5</th>
+					<td rowspan="2">flight operations or a terminal within the limits of the PDS,</td>
+					<td>home</td>
+					<td rowspan="2"><span alt="not applicable">N/A</span></td>
+					<td rowspan="2">the terminal (“returns to” refers to “wheels down”).</td>
+				</tr>
+				<tr>
+					<th>6</th>
+					<td>the office, and does not perform duty there,</td>
+				</tr>
+				<tr>
+					<th>7</th>
+					<td rowspan="2">flight oeprations or a terminal outside the limits of the PDS,</td>
+					<td>the office, and performs duty there,<sup><a href="#footnote-010103-4">4</a></sup></td>
+					<td>home,</td>
+					<td>the office.</td>
+				</tr>
+				<tr>
+					<th>8</th>
+					<td>home.</td>
+					<td><span alt="not applicable">N/A</span></td>
+					<td>home.</td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td id="footnote-010103-4" colspan="5">Disregard travel to and from the office if the Service member performed no duty there.</td>
+				</tr>
+			</tfoot>
+		</table>
 	</li>
 </ol>
 
@@ -220,7 +299,40 @@ Travel and transportation allowances are payable only after valid orders are iss
 <ol type="A">
 	<li><u>Modifications after Travel</u>. Travel authorizations and orders cannot be retroactively modified to increase or decrease an allowance after the travel is completed. A travel authorization or order may be retroactively corrected to show the original intent (CBCA 3472-RELO, September 23, 2013)). When an allowance is approved after travel begins, it does not constitute a retroactive modification to create, change, or deny an allowance. An amendment is effective on the date it is issued and is not retroactive unless it contains language that corrects an error or omission, or provides a confirmation of the date of the verbal authorization.</li>
 	<li><u>Time Limits for Travel Authorizations and Orders</u>. See Table 1-6 for rules that define the time restrictions for travel allowances. Requests for a TDY that exceeds 180 days at one location should be made in advance of travel to the authority identified in Table 1-7. The requests must be made in writing and contain justification for the length of the TDY. When the TDY exceeds 180 consecutive days without being authorized or approved, per diem stops on the 181st day.
-	[table 1-6]
+	<table>
+		<thead>
+			<tr>
+				<th colspan="3">Table 1-6. Time Limits for Travel Orders</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>1</th>
+				<td>TDY Orders (Other Than Training)</td>
+				<td>A TDY at one location may not exceed 180 consecutive days except when authorized by the appropriate authority.<sup><a href="#footnote-010206-5">5</a></sup></td>
+			</tr>
+			<tr>
+				<th>2</th>
+				<td>TDY Orders for Training</td>
+				<td>Training courses for Service members that are scheduled to last 139 or fewer days (less than 20 weeks) are considered TDY. If the scheduled duration is 140 or more days (20 weeks), then it is a permanent duty assignment.</td>
+			</tr>
+			<tr>
+				<th>3</th>
+				<td>PCS Orders</td>
+				<td>
+					<ol type="a">
+						<li>Military PCS orders are valid for travel and transportation allowances to the new PDS named in that PCS order while the order remains in effect and before receipt of further PCS orders, unless otherwise specified in the JTR (see <a href="http://www.gao.gov/products/432758">45 Comp. Gen. 589 (1966)</a>).</li>
+						<li>Civilian PCS orders are valid for 1 year from the civilian employee’s transfer or appointment date. See par. 053712 for exceptions.</li>
+					</ol>
+				</td>
+			</tr>
+		</tbody>
+		<tfoot>
+			<tr>
+				<td id="footnote-010206-5" colspan="3">Bona fide assignment extensions that, when added to the originally authorized TDY period, total more than 180 days at one location, may be directed by the AO only when necessary for unforeseen changes or delays.</td>
+			</tr>
+		</tfoot>
+	</table>
 	</li>
 	<li><u>Violation of 180-Day Rule</u>. Issuing a TDY order for 180, or fewer, consecutive days, followed by a brief return to the PDS and then another TDY order for return to the same location, is a violation of the 180-consecutive-day policy if the known, or reasonably anticipated, TDY duration exceeded 180 days when the initial order was issued.
 		<div class="usa-alert usa-alert-info">
@@ -228,7 +340,43 @@ Travel and transportation allowances are payable only after valid orders are iss
 				<p class="usa-alert-text">Exceeding the 180-day consecutive TDY time limit without authorization and approval does not constitute an automatic PCS.</p>
 			</div>
 		</div>
-		[table 1-7]
+		<table>
+			<thead>
+				<tr>
+					<th colspan="3">Table 1-7. Authorizing and Approval Authority for TDY of 181 or More Consecutive Days</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>1</th>
+					<td>All Service Members Other Than Army</td>
+					<td>
+						<ol type="a">
+							<li>Secretary concerned, Chief of an appropriate bureau or the staff agency specifically designated for that purpose, or the Combatant Commander (CCDR) or Deputy CCDR.</li>
+							<li>No further delegation is authorized.</li>
+						</ol>
+					</td>
+				</tr>
+				<tr>
+					<th>2</th>
+					<td>Army Service Members</td>
+					<td>
+						<ol type="a">
+							<li>Secretary concerned, Chief of an appropriate bureau or the staff agency specifically designated for that purpose, or the CCDR or Deputy CCDR.</li>
+							<li>This authority can be re-delegated to authorize a TDY for a Service member assigned to a Warrior in Transition Unit. In that case, a Flag Officer or civilian equivalent from the U.S. Army Medical Command must first recommend that the Army Compensation Chief authorize or approve the TDY.</li>
+							<li>If the Army Compensation Chief approves the recommendation, then the Service Compensation Chief (a two-star Flag Officer or civilian equivalent) may authorize or approve the TDY.</li>
+						</ol>
+					</td>
+				</tr>
+				<tr>
+					<th>3</th>
+					<td>Civilian Employees</td>
+					<td>
+						<ol type="a">
+							<li>Secretary concerned, DoD Agency Director, Service or DoD Agency Headquarters (if delegated), Chief of an appropriate bureau or the staff agency specifically designated for that purpose, or the CCDR or Deputy CCDR.</li>
+							<li>This authority can only be delegated as stated for Service or DoD Agency Headquarters.</li>
+			</tbody>
+		</table>
 	</li>
 	<li><u>TDY Travel Authorization or Order Issued Before Request to Exceed 180 Days Is Received</u>
 		<ol>
