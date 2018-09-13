@@ -33,6 +33,7 @@ subject to that Agency’s travel and transportation policies.
 NAF business.
 - Foreign personnel traveling under Security Assistance Management Manual authority.
 
+
 Nothing in the JTR authorizes expenditures for purposes not provided for in Congressional appropriations or in law. This publication is issued under the authority of <ins>[DoDI 5154.31](http://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/515431_vol05.pdf), Vol. 5 (Commercial Travel Management: PDTATAC)</ins>. Travelers and travel officials must adhere strictly to the JTR. The traveler could be personally financially responsible for any expense accrued by not complying with the JTR. When the General Services Administration’s Federal Travel Regulation (FTR) authorizes a discretionary travel and transportation allowance that the JTR does not address, the allowance is not authorized or implemented within the DoD.
 
 ### Responsibility for the JTR
@@ -52,7 +53,7 @@ In cases of specific travel circumstances in need of clarification, the General 
 
 Decisions by the GC DoD, DOHA, CBCA (formerly called the General Services Board of Contract Appeals), and the U.S. Government Accountability Office provide guidance for similar cases or situations involving the same circumstances. These decisions are referenced in the JTR, where applicable.
 
-### Questions, Suggestions, or Recommendations
+#### Questions, Suggestions, or Recommendations
 
 Submitted questions concerning information in the JTR or suggestions for improvements or recommendations for changes must go through Command channels to the respective Service or Agency PDTATAC representative.
 
